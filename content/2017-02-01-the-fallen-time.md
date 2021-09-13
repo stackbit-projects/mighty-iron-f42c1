@@ -5,6 +5,7 @@ cover: 'https://unsplash.it/400/300/?random?TheFallenTime'
 categories:
   - null
   - React
+  - lorem-ipsum
 tags:
   - test
   - something
