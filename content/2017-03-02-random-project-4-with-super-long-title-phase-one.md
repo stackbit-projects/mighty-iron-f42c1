@@ -1,11 +1,10 @@
 ---
-date: 2017-03-02
-title: "Random project 4 With Super Long Title Phase One"
-cover: "https://unsplash.it/1152/300/?random?SuperLong"
-categories: 
-    - Gatsby
+date: '2017-03-02'
+title: Random project 4 With Super Long Title Phase One
+cover: 'https://unsplash.it/1152/300/?random?SuperLong'
+categories: []
 tags:
-    - say hi
+  - say hi
 ---
 
 ## Mendaci pinu ipsi nunc
