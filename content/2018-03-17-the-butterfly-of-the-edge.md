@@ -1,17 +1,17 @@
 ---
-title: "The Butterfly of the Edge"
-cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
-date: "17/03/2017"
-categories: 
-    - Gatsby
-    - Tech
+title: The Butterfly of the Edge
+cover: 'https://unsplash.it/1152/300/?random?TheButterflyoftheEdge'
+date: 17/03/2017
+categories:
+  - null
+  - Tech
 tags:
-    - programming
-    - more tags
-    - testing
-    - another one
-    - stuff
-    - other
+  - programming
+  - more tags
+  - testing
+  - another one
+  - stuff
+  - other
 ---
 
 ## Cognoscenti audeat ulterius sublimia terga potiorque saxo
